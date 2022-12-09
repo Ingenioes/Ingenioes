@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 Currently working on getting my Bacherlor Professional IT done ... wish me luck.  
 Not much of a coding guy, just trying to help, improve and use the cool stuff of other brilliant minds.  
 Fun fact: Im German, we are not funny.
+
+![](hackermans.gif)
