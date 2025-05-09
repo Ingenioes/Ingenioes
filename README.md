@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently working on getting my Bacherlor Professional IT done ... wish me luck.  
-Not much of a coding guy, just trying to help, improve and use the cool stuff of other brilliant minds.  
-Fun fact: Im German, we are not funny.
+Currently working as a Cyber Security Specialist ... wish me luck bcs. I have no Idea what I'm doing.
+Not much of a coding guy, just trying to help, improve and use the cool stuff of other brilliant minds.
 
 ![](hackermans.gif)
